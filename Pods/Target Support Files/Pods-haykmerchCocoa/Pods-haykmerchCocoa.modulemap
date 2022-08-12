@@ -1,0 +1,6 @@
+module Pods_haykmerchCocoa {
+  umbrella header "Pods-haykmerchCocoa-umbrella.h"
+
+  export *
+  module * { export * }
+}
